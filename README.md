@@ -18,3 +18,4 @@ sudo bash AIRSCAN.sh
 --------------------
 (To stop the script press ctrl + x)
 ---------------------------------
+this program was made using Geany
