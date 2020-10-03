@@ -1,4 +1,4 @@
-# AIRSCAN
+# AIRSCAN.sh
 AIRSCAN is a little bash script I  wrote. It's main goal is to start airdump-ng automatically.
 Also you WILL need to edit your wierless card into the bash script. 
 
