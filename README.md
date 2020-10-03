@@ -7,13 +7,14 @@ The default wierless card is wlx00c0ca97e839.
 AIRSCAN will automatically install all dependecies.To install AIRSCAN just type in these commands: 
 
 git clone https://github.com/Dust47/AIRSCAN 
-
+------------------------------------------
 cd AIRSCAN
-
+----------
 unzip AIRSCAN.zip
-
+-----------------
 cd AIRSCAN
-
+----------
 sudo bash AIRSCAN.sh
-
+--------------------
 To stop the script press ctrl + x
+---------------------------------
