@@ -14,6 +14,8 @@ unzip AIRSCAN.zip
 -----------------
 cd AIRSCAN
 ----------
+chmod +x AIRSCAN.sh
+-------------------
 sudo bash AIRSCAN.sh
 --------------------
 (To stop the script press ctrl + x)
