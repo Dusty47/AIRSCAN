@@ -16,4 +16,4 @@ cd AIRSCAN
 
 sudo bash AIRSCAN.sh
 
-To stop the script press ctrl + X
+To stop the script press ctrl + x
