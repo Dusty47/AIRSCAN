@@ -6,7 +6,7 @@ The default wireless card is wlx00c0ca97e839.
 
 AIRSCAN will automatically install all dependencies.To install AIRSCAN just type in these commands: 
 
-git clone https://github.com/Dust47/AIRSCAN 
+git clone https://github.com/Dust47/AIRSCAN.git
 ------------------------------------------
 cd AIRSCAN
 ----------
