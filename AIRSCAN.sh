@@ -20,7 +20,7 @@ figlet -f small "made by Dusty47"
 #Script messages startup and date
 figlet -f future "STARTING AIRDUMP"
 figlet -f emboss2 "SETTING UP"
-figlet -f slant "WLAN0MON ON"
+figlet -f slant "START WLAN0MON"
 figlet -f emboss2 "date"
 date
 
