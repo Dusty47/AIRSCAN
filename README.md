@@ -1,4 +1,5 @@
 # AIRSCAN.sh
+#THIS SCRIPT WORKS ON MOST LINUX OS'S
 AIRSCAN is a little bash script I  wrote. Its main goal is to start airdump-ng automatically.
 Also you WILL need to EDIT your WIRELESS CARD into the bash script. 
          
