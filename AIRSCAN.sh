@@ -6,14 +6,14 @@ apt install figlet
 figlet -f emboss2 "installing  dependencies"
 apt install aircrack-ng
 apt install toilet
-apt install mdk4
+###############################################
 
 
 
 #Script messages version and creator
 figlet -f emboss2 "AIRSCAN version 1.0"
 figlet -f small "made by Dusty47"
-
+################################################
 
 
 
@@ -23,14 +23,14 @@ figlet -f emboss2 "SETTING UP"
 figlet -f slant "START WLAN0MON"
 figlet -f emboss2 "date"
 date
-
+#################################################
 
 
 #Replace (wlx00c0ca97e839) with your wierless card
 airmon-ng start wlx00c0ca97e839
 #Start airodump on wlan0mon
 airodump-ng wlan0mon
-
+##################################################
 
 
 
@@ -118,7 +118,7 @@ airmon-ng stop wlan0mon
 figlet  -f emboss2 "the  scan is complete"
 
 
-
+#MORE STUFF WILL BE ADDED SOON
 
 
 
