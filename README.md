@@ -10,10 +10,6 @@ git clone https://github.com/Dust47/AIRSCAN.git
 ------------------------------------------
 cd AIRSCAN
 ----------
-unzip AIRSCAN.zip
------------------
-cd AIRSCAN
-----------
 chmod +x AIRSCAN.sh
 -------------------
 sudo bash AIRSCAN.sh
