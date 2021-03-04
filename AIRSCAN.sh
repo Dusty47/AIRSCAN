@@ -1,13 +1,12 @@
 #_-THIS SCRIPT WAS MADE BY GITHUB USER Dusty47-_
 
 #Install DEPENDENCIES
+apt update && apt upgrade
 apt install figlet
 figlet -f emboss2 "installing  dependencies"
-apt update
-apt upgrade
 apt install aircrack-ng
 apt install toilet
-
+apt install mdk4
 
 
 
