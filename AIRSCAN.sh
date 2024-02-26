@@ -1,4 +1,4 @@
-#Install DEPENDENCIES
+#install dependencies
 apt update && apt upgrade
 apt install figlet
 figlet -f emboss2 "installing  dependencies"
@@ -7,23 +7,25 @@ apt install aircrack-ng
 
 
 
-#Script message
+#print message
 figlet -f small "made by Dusty47"
 ################################################
 
 
 
-#Print date
+#print date
 figlet -f emboss2 "date"
 date
 #################################################
 
 
-#Replace (wlx00c0ca97e839) with your wierless card
-airmon-ng start wlx00c0ca97e839
-#Start airodump on wlan0mon
+#Please replace (wlx00c0ca97e839) with your wireless card
+airmon-ng start #wlx00c0ca97e839
+#################################################
+
+#start airodump on wlan0mon
 airodump-ng wlan0mon
-##################################################
+#################################################
 
 
 
