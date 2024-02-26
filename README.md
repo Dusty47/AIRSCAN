@@ -4,7 +4,7 @@ You WILL need to edit your wireless card into the bash script.
          
 The default wireless card is mine wlx00c0ca97e839.
 
-AIRSCAN will automatically install all dependencies type in these three commands: 
+To install AIRSCAN type in these three commands:
 
 #1 git clone https://github.com/Dust47/AIRSCAN
 
