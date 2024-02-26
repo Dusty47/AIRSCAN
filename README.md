@@ -1,20 +1,17 @@
 # AIRSCAN.sh
-(This script works on most linux distros)
-AIRSCAN is a little bash script I  wrote. Its main goal is to start airdump-ng automatically.
-Also you WILL need to EDIT your WIRELESS CARD into the bash script. 
+AIRSCAN is a very, very, very tiny bash script I wrote. Its goal is to start airdump-ng so you don't need to do it manually
+Also, you WILL need to edit your wireless card into the bash script. 
          
-The default wireless card is wlx00c0ca97e839.
+The default wireless card is mine wlx00c0ca97e839.
 
-AIRSCAN will automatically install all dependencies.To install AIRSCAN just type in these commands: 
+AIRSCAN will automatically install all dependencies, type in these three commands: 
 
-git clone https://github.com/Dust47/AIRSCAN
-------------------------------------------
-cd AIRSCAN
-----------
-chmod +x AIRSCAN.sh
--------------------
-sudo bash AIRSCAN.sh
---------------------
+#1 git clone https://github.com/Dust47/AIRSCAN
+
+#2 chmod +x AIRSCAN.sh
+
+#3 sudo bash AIRSCAN.sh
+
 (To stop the script press ctrl + x)
 ---------------------------------
-This program was made using Geany!
+made with Geany text editor
