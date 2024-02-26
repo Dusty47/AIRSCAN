@@ -1,22 +1,19 @@
-#_-THIS SCRIPT WAS MADE BY GITHUB USER Dusty47-_
-
 #Install DEPENDENCIES
 apt update && apt upgrade
 apt install figlet
 figlet -f emboss2 "installing  dependencies"
 apt install aircrack-ng
-apt install toilet
 ###############################################
 
 
 
-#Script messages version and creator
+#Script message
 figlet -f small "made by Dusty47"
 ################################################
 
 
 
-#Script messages startup and date
+#Print date
 figlet -f emboss2 "date"
 date
 #################################################
